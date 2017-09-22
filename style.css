@@ -5,3 +5,12 @@
 .info {
   padding-bottom: 25px;
 }
+
+#search-input {
+  width: 485px;
+  /*width: 100%;*/
+}
+
+#go {
+  padding: 25px 10px 30px 10px;
+}
